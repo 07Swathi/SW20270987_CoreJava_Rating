@@ -1,2 +1,0 @@
-# SW20270987_CoreJava_Rating
-CoreJava_Rating
